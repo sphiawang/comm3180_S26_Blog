@@ -1,5 +1,5 @@
 ---
-title: My Data Stories
+title: Sophia's Blog COMM3180
 listing:
   contents: posts
   sort: date desc

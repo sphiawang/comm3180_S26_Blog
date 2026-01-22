@@ -5,4 +5,4 @@ about:
   template: jolla
 ---
 
-About this blog
+This blog is about my explorations and experiments with Language Models. 

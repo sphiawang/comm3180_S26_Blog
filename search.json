@@ -7,13 +7,6 @@
     "text": "This blog is about my explorations and experiments with Language Models."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Sophia’s Blog COMM3180",
-    "section": "",
-    "text": "A test post\n\n\n\nvisualization\n\ndata stories\n\n\n\nAn example post from a Jupyter notebook\n\n\n\n\n\nJan 12, 2026\n\n\nAn LLM User\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "posts/000_test_post/index.html",
     "href": "posts/000_test_post/index.html",
     "title": "A test post",
@@ -26,5 +19,19 @@
     "title": "A test post",
     "section": "Stories from data",
     "text": "Stories from data\n\nLet’s set up some data\n\n\nx = ['A', 'B', 'C']\ny = [1, 5, 3]\n\n\nNow let’s visualize it\n\nplt.bar(x, y)\nplt.show()"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sophia’s Blog COMM3180",
+    "section": "",
+    "text": "Prompting for medical knowledge\n\n\n\nLLMs\n\nMedical Knowledge\n\n\n\nHow do you get LLMs to give accurate medical responses\n\n\n\n\n\nJan 22, 2026\n\n\nSophia\n\n\n\n\n\n\n\n\n\n\n\n\nA test post\n\n\n\nvisualization\n\ndata stories\n\n\n\nAn example post from a Jupyter notebook\n\n\n\n\n\nJan 12, 2026\n\n\nAn LLM User\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/002_post_title/medical_knowledge.html",
+    "href": "posts/002_post_title/medical_knowledge.html",
+    "title": "Prompting for medical knowledge",
+    "section": "",
+    "text": "Here are my findings:"
   }
 ]

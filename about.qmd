@@ -1,6 +1,6 @@
 ---
 title: About
-image: Sasaki Headshot - Sophia Wang.HEIC
+image: Sophia Headshot COMM.jpg
 about:
   template: jolla
 ---

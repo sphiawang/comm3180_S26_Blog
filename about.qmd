@@ -1,9 +1,9 @@
 ---
 title: About
-image: profile.jpg
+image: Sasaki Headshot - Sophia Wang.HEIC
 about:
   template: jolla
 ---
 
-This blog is about my explorations and experiments with Language Models. 
+My name is Sophia Wang and I'm a sophomore at Penn studying PPE! I'm excited to learn more about data analysis and its applications with python. This blog is about my explorations and experiments with large datasets and python. 
 

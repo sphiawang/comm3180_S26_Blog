@@ -1,6 +1,6 @@
 ---
 title: About
-image: Sophia Headshot COMM.jpg
+image: Sophia_Headshot_COMM.jpg
 about:
   template: jolla
 ---

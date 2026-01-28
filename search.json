@@ -7,6 +7,20 @@
     "text": "My name is Sophia Wang and I’m a sophomore at Penn studying PPE! I’m excited to learn more about data analysis and its applications with python. This blog is about my explorations and experiments with large datasets and python."
   },
   {
+    "objectID": "posts/002_post_title/medical_knowledge.html",
+    "href": "posts/002_post_title/medical_knowledge.html",
+    "title": "Prompting for medical knowledge",
+    "section": "",
+    "text": "Here are my findings:"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sophia’s Blog COMM3180",
+    "section": "",
+    "text": "AI Literacy for College Students\n\n\n\nLLMs\n\nAcademic\n\n\n\nHow can AI be responsibly used in a college setting?\n\n\n\n\n\nJan 28, 2026\n\n\nSophia\n\n\n\n\n\n\n\n\n\n\n\n\nPrompting for medical knowledge\n\n\n\nLLMs\n\nMedical Knowledge\n\n\n\nHow do you get LLMs to give accurate medical responses\n\n\n\n\n\nJan 22, 2026\n\n\nSophia\n\n\n\n\n\n\n\n\n\n\n\n\nA test post\n\n\n\nvisualization\n\ndata stories\n\n\n\nAn example post from a Jupyter notebook\n\n\n\n\n\nJan 12, 2026\n\n\nAn LLM User\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "posts/000_test_post/index.html",
     "href": "posts/000_test_post/index.html",
     "title": "A test post",
@@ -21,16 +35,9 @@
     "text": "Stories from data\n\nLet’s set up some data\n\n\nx = ['A', 'B', 'C']\ny = [1, 5, 3]\n\n\nNow let’s visualize it\n\nplt.bar(x, y)\nplt.show()"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Sophia’s Blog COMM3180",
-    "section": "",
-    "text": "Prompting for medical knowledge\n\n\n\nLLMs\n\nMedical Knowledge\n\n\n\nHow do you get LLMs to give accurate medical responses\n\n\n\n\n\nJan 22, 2026\n\n\nSophia\n\n\n\n\n\n\n\n\n\n\n\n\nA test post\n\n\n\nvisualization\n\ndata stories\n\n\n\nAn example post from a Jupyter notebook\n\n\n\n\n\nJan 12, 2026\n\n\nAn LLM User\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/002_post_title/medical_knowledge.html",
-    "href": "posts/002_post_title/medical_knowledge.html",
-    "title": "Prompting for medical knowledge",
+    "objectID": "posts/003_blog_post/blogpost3.html",
+    "href": "posts/003_blog_post/blogpost3.html",
+    "title": "AI Literacy for College Students",
     "section": "",
     "text": "Here are my findings:"
   }

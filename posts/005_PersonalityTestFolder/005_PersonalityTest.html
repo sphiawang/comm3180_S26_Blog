@@ -286,7 +286,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <section id="what-about-your-dominant-hand" class="level2">
 <h2 class="anchored" data-anchor-id="what-about-your-dominant-hand">What About Your Dominant Hand?</h2>
 <p>Another internal factor I wanted to examine was dominant writing hand. Since handedness has biological roots, I wondered whether it might show noticeable differences in personality traits. Using the same approach as before, I created a bar chart comparing average Big Five scores across right-handed, left-handed, and ambidextrous individuals.</p>
-<p>What I found was unexpected.</p>
+<p>What I found was slightly unexpected.</p>
 <div id="1f93b85c-5c38-4133-8fde-bcf8107747d3" class="cell" data-execution_count="72">
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb13"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true" tabindex="-1"></a>big5_df[<span class="st">'hand'</span>] <span class="op">=</span> big5_df[<span class="st">'hand'</span>].replace({<span class="dv">1</span>: <span class="st">'Right'</span>, <span class="dv">2</span>: <span class="st">'Left'</span>, <span class="dv">3</span>: <span class="st">'Ambidextrous'</span>, <span class="dv">0</span>: <span class="st">'Missed'</span>})</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
@@ -368,9 +368,9 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </div>
 </div>
 </div>
-<p>Surprisingly, the averages were remarkably similar, generally around 37. However, I do not that this could reflect the sample being heavily North American and European, potentially limiting variation.</p>
+<p>Surprisingly, the averages were remarkably similar, generally around 37. However, I do think that this could be due to the fact that the sample is heavily North American and European, potentially limiting variation.</p>
 <p>Since averages did not reveal much difference, I looked deeper by comparing the standard deviation of agreeableness within each country.</p>
-<p>This shift in perspective revealed something more meaningful.</p>
+<p>This shift in focus revealed something more meaningful.</p>
 <div id="df41abb0-29b9-4795-9898-1ded6ec34d4a" class="cell" data-execution_count="65">
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb22"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb22-1"><a href="#cb22-1" aria-hidden="true" tabindex="-1"></a>top_countries <span class="op">=</span> big5_df[<span class="st">'country'</span>].value_counts().head(<span class="dv">10</span>).index</span>
 <span id="cb22-2"><a href="#cb22-2" aria-hidden="true" tabindex="-1"></a>country_data <span class="op">=</span> big5_df[big5_df[<span class="st">'country'</span>].isin(top_countries)]</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>

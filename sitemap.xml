@@ -2,26 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://sphiawang.github.io/comm3180_S26_Blog/about.html</loc>
-    <lastmod>2026-02-07T04:05:11.289Z</lastmod>
+    <lastmod>2026-02-14T04:04:27.392Z</lastmod>
   </url>
   <url>
     <loc>https://sphiawang.github.io/comm3180_S26_Blog/posts/002_post_title/medical_knowledge.html</loc>
-    <lastmod>2026-02-07T04:05:11.290Z</lastmod>
+    <lastmod>2026-02-14T04:04:27.393Z</lastmod>
   </url>
   <url>
-    <loc>https://sphiawang.github.io/comm3180_S26_Blog/posts/000_test_post/index.html</loc>
-    <lastmod>2026-02-07T04:05:11.290Z</lastmod>
+    <loc>https://sphiawang.github.io/comm3180_S26_Blog/posts/005_PersonalityTestFolder/005_PersonalityTest.html</loc>
+    <lastmod>2026-02-14T04:04:27.401Z</lastmod>
   </url>
   <url>
     <loc>https://sphiawang.github.io/comm3180_S26_Blog/index.html</loc>
-    <lastmod>2026-02-07T04:05:11.289Z</lastmod>
+    <lastmod>2026-02-14T04:04:27.392Z</lastmod>
   </url>
   <url>
     <loc>https://sphiawang.github.io/comm3180_S26_Blog/posts/004_PhiladelphiaWeather_Post/PhillyWeatherData.html</loc>
-    <lastmod>2026-02-07T04:05:11.291Z</lastmod>
+    <lastmod>2026-02-14T04:04:27.393Z</lastmod>
   </url>
   <url>
     <loc>https://sphiawang.github.io/comm3180_S26_Blog/posts/003_blog_post/blogpost3.html</loc>
-    <lastmod>2026-02-07T04:05:11.290Z</lastmod>
+    <lastmod>2026-02-14T04:04:27.393Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sphiawang.github.io/comm3180_S26_Blog/posts/000_test_post/index.html</loc>
+    <lastmod>2026-02-14T04:04:27.393Z</lastmod>
   </url>
 </urlset>

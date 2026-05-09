@@ -1,43 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sphiawang.github.io/comm3180_S26_Blog/about.html</loc>
-    <lastmod>2026-03-23T02:15:10.946Z</lastmod>
+    <loc>https://sphiawang.github.io/comm3180_S26_Blog/index.html</loc>
+    <lastmod>2026-05-09T03:32:29.217Z</lastmod>
   </url>
   <url>
-    <loc>https://sphiawang.github.io/comm3180_S26_Blog/posts/002_post_title/medical_knowledge.html</loc>
-    <lastmod>2026-03-23T02:15:10.947Z</lastmod>
+    <loc>https://sphiawang.github.io/comm3180_S26_Blog/posts/009_AI/AIBlog.html</loc>
+    <lastmod>2026-05-09T03:32:29.489Z</lastmod>
   </url>
   <url>
     <loc>https://sphiawang.github.io/comm3180_S26_Blog/posts/008_GunViolence/PhiladelphiaGunViolence.html</loc>
-    <lastmod>2026-03-23T02:15:11.146Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sphiawang.github.io/comm3180_S26_Blog/posts/007_CrashData/CrashDataBlog.html</loc>
-    <lastmod>2026-03-23T02:15:11.106Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sphiawang.github.io/comm3180_S26_Blog/posts/006_WinterOlympics/006_WinterOlympics_BlogPost.html</loc>
-    <lastmod>2026-03-23T02:15:10.966Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sphiawang.github.io/comm3180_S26_Blog/index.html</loc>
-    <lastmod>2026-03-23T02:15:10.946Z</lastmod>
+    <lastmod>2026-05-09T03:32:29.376Z</lastmod>
   </url>
   <url>
     <loc>https://sphiawang.github.io/comm3180_S26_Blog/posts/004_PhiladelphiaWeather_Post/PhillyWeatherData.html</loc>
-    <lastmod>2026-03-23T02:15:10.947Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sphiawang.github.io/comm3180_S26_Blog/posts/005_PersonalityTestFolder/005_PersonalityTest.html</loc>
-    <lastmod>2026-03-23T02:15:10.954Z</lastmod>
+    <lastmod>2026-05-09T03:32:29.219Z</lastmod>
   </url>
   <url>
     <loc>https://sphiawang.github.io/comm3180_S26_Blog/posts/003_blog_post/blogpost3.html</loc>
-    <lastmod>2026-03-23T02:15:10.947Z</lastmod>
+    <lastmod>2026-05-09T03:32:29.219Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sphiawang.github.io/comm3180_S26_Blog/posts/005_PersonalityTestFolder/005_PersonalityTest.html</loc>
+    <lastmod>2026-05-09T03:32:29.224Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sphiawang.github.io/comm3180_S26_Blog/posts/007_CrashData/CrashDataBlog.html</loc>
+    <lastmod>2026-05-09T03:32:29.345Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sphiawang.github.io/comm3180_S26_Blog/posts/006_WinterOlympics/006_WinterOlympics_BlogPost.html</loc>
+    <lastmod>2026-05-09T03:32:29.233Z</lastmod>
   </url>
   <url>
     <loc>https://sphiawang.github.io/comm3180_S26_Blog/posts/000_test_post/index.html</loc>
-    <lastmod>2026-03-23T02:15:10.947Z</lastmod>
+    <lastmod>2026-05-09T03:32:29.218Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sphiawang.github.io/comm3180_S26_Blog/posts/002_post_title/medical_knowledge.html</loc>
+    <lastmod>2026-05-09T03:32:29.218Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sphiawang.github.io/comm3180_S26_Blog/about.html</loc>
+    <lastmod>2026-05-09T03:32:29.217Z</lastmod>
   </url>
 </urlset>
